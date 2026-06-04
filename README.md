@@ -43,10 +43,5 @@ To create a visually appealing digital menu system that enhances customer experi
 └── script.js
 ```
 
-## 📸 Screenshots
-
-Add screenshots of your homepage, menu pages, and responsive layouts here.
-
-## 👨‍💻 Author
 
 Developed as a frontend web development project using HTML, CSS, and JavaScript.
